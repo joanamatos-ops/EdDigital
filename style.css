@@ -1,1 +1,11 @@
-
+body{
+  padding: 25px;
+  background-color: rgb(3, 61, 61);
+}
+.title {
+	color: #5C6AC4;
+}
+img{
+  width:300px;
+  height: auto;
+}
